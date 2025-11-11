@@ -1,11 +1,16 @@
+4. **Save** (`Ctrl+S`)
+
 ---
 
-### 2. `CONTRIBUTING.md`
+### **2. Create `CONTRIBUTING.md`**
+
+1. Open `CONTRIBUTING.md`
+2. Paste:
 
 ```markdown
 # Contributing to CampusAI
 
-We ❤️ contributions!
+We love contributions!
 
 ## How to Contribute
 1. Fork the repo
@@ -17,7 +22,3 @@ We ❤️ contributions!
 ## Code Style
 - Python: PEP 8
 - JS: Prettier
-- Commit: Conventional Commits
-
-## Issues
-- Label: `good first issue` for beginners
