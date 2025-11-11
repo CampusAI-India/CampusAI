@@ -1,0 +1,12 @@
+# Create all folders
+mkdir -p .github/workflows
+mkdir -p app/mobile app/web app/shared
+mkdir -p backend/api backend/db
+mkdir -p ai/guide ai/ar
+mkdir -p assets/3d assets/images
+mkdir -p docs scripts
+
+# Create empty files
+touch README.md
+touch CONTRIBUTING.md
+touch LICENSE
